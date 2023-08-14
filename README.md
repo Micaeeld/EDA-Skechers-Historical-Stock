@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Analysis of Skechers Historical Stock Data
 This notebook presents an exploratory analysis of data from the Skechers Historical Stock Data dataset, available from Kaggle at https://www.kaggle.com/datasets/lydia70/skechers-historical-stock-data. The dataset contains historical stock data for Skechers company which is an American footwear company.
 
